@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The liberty of the mannor of Stepney in the county of Middlesex the hamblets and liberties of the same, hereafter specified, viz.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73261</idno>
+            <idno type="STC">STC 23255</idno>
+            <idno type="STC">ESTC S110884</idno>
+            <idno type="EEBO-CITATION">99898557</idno>
+            <idno type="PROQUEST">99898557</idno>
+            <idno type="VID">178417</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73261)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178417)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1671:35, 2051:17b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The liberty of the mannor of Stepney in the county of Middlesex the hamblets and liberties of the same, hereafter specified, viz.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>post-1640]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not an STC item--STC.</note>
+                  <note>Date of publication suggested by STC.</note>
+                  <note>Reproductions of the original in the British Library, London, England.</note>
+                  <note>Copy at reel 2051:17b bound and filmed following STC 23254.5: The free customes, benefits...of the mannors of Stepney and Hackney. London, 1624.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stepney Manor (Middlesex) --  Early works to 1800.</term>
+               <term>Manors --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:178417:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <head>The Liberty of the Mannor of <hi>STEPNEY</hi> in the County of <hi>Middleſex,</hi> the Hamblets and Liberties of the ſame, hereafter ſpecified,</head>
+            <argument>
+               <p>viz.
+<list>
+                     <item>Stepney</item>
+                     <item>Cleave-ſtreet, <hi>alias</hi> White-horſe ſtreet</item>
+                     <item>Cock Hill</item>
+                     <item>All the Pariſh of St. Paul's Shadwell</item>
+                     <item>New Gravel Lane</item>
+                     <item>Wapping Wall</item>
+                     <item>Ratcliff High-way</item>
+                     <item>The Par. of St. George in the County of Middleſex</item>
+                     <item>Old Gravel Lane</item>
+                     <item>Pennington Street</item>
+                     <item>St. John's Wapping</item>
+                     <item>Virginia Street</item>
+                     <item>Nightingal Lane, on the Eaſt-ſide</item>
+                     <item>Eaſt Smithfield, from the Corner of Nigh<g ref="char:EOLhyphen"/>tingal Lane</item>
+                     <item>Salt Peter Bank</item>
+                     <item>White's Yard</item>
+                     <item>Blue-Anchor Yard</item>
+                     <item>Roſemary Lane</item>
+                     <item>Goodman's Fields, <hi>viz.</hi>
+                     </item>
+                     <item>White-lyon Street</item>
+                     <item>Chamber Street</item>
+                     <item>Preſcot Street</item>
+                     <item>Manſell Street</item>
+                     <item>Ayloffe Street</item>
+                     <item>Lemon Street</item>
+                     <item>Goodman's Yard</item>
+                     <item>Lambeth Street</item>
+                     <item>White Chappel</item>
+                     <item>Mile-End Old Town</item>
+                     <item>Mile-End New Town</item>
+                     <item>Pettycoat Lane</item>
+                     <item>Wentworth Street</item>
+                     <item>Chriſt-Church in the County of Middle<g ref="char:EOLhyphen"/>ſex</item>
+                     <item>Spittle-fields, with the Market, and all the Streets thereunto be<g ref="char:EOLhyphen"/>longing</item>
+                     <item>St. Leon. Shoreditch</item>
+                     <item>Holywell Street</item>
+                     <item>Brick Lane</item>
+                     <item>Cambridge Heath</item>
+                     <item>Bethnal Green</item>
+                     <item>Old Ford</item>
+                     <item>Stratford <hi>and</hi> Bow</item>
+                     <item>Cole-harbour</item>
+                     <item>Black Wall</item>
+                     <item>Poplar and North-ſtr.</item>
+                     <item>Lymehouſe</item>
+                     <item>Ratcliff.</item>
+                  </list>
+               </p>
+            </argument>
+            <p>
+               <label>The Extent of the ſaid MANNOR.</label>
+               <lb/>
+FROM the Houſe commonly known by the Name of the <hi>Angel-and-Crown Tavern</hi> within <hi>White-Chappel-Bars</hi> to <hi>Goodman</hi>'s <hi>Yard</hi> in <hi>Goodman</hi>'s <hi>Fields;</hi> thence to the <hi>Roſemary Branch</hi> in <hi>Roſmeary Lane</hi> on the North-ſide to <hi>White-lyon-ſtreet</hi> and <hi>Cable-ſtreet;</hi> and on the South-ſide in <hi>Roſe<g ref="char:EOLhyphen"/>mary-lane</hi> beginning at <hi>Blue-Anchor Yard</hi> on to <hi>Nightingale-lane;</hi> on the Eaſt-ſide to the <hi>Her<g ref="char:EOLhyphen"/>mitage-bridge,</hi> ſo on the River-ſide to <hi>Frying-pan Stairs,</hi> and ſo on the River-ſide in <hi>Lower-Shadwell</hi> to <hi>Cock-hill,</hi> thence to <hi>Ratcliff-Croſs,</hi> thence to <hi>Noah</hi>'s <hi>Ark,</hi> thence to <hi>Lymehouſe Hole,</hi> ſo on by the River-ſide, including the Marſhes to <hi>Cole-Harbour,</hi> and on to Sir <hi>Henry Johnſon</hi>'s Yard, thence to the <hi>Copperas-houſe,</hi> &amp;c. part of <hi>Bromley,</hi> thence to <hi>Barebinder-lane,</hi> and ſo on to the <hi>Bird-in-Hand,</hi> and ſo on the River <hi>Lee</hi> to the <hi>Bullyfant,</hi> thence to the upper-end of the <hi>Wickhouſe,</hi> thence to <hi>Grove-ſtreet,</hi> ſo on to <hi>Cambridge-Heath</hi> and to the Sign of the <hi>Nagg</hi>'s <hi>Head,</hi> ſo on to <hi>Shoreditch Church-yard,</hi> and ſo on to the Sign of the <hi>Jane Shore,</hi> ſo on the Eaſt-ſide of <hi>Holywell-ſtreet</hi> to the <hi>Wiſe-men</hi> of <hi>Gotham,</hi> including all the Courts, Lanes, Alleys, and <hi>Webb</hi>'s Square on that ſide the Way, and the other ſide of the Way on the Weſt-ſide in <hi>Holy-well Street,</hi> from the Sign of the <hi>Red Lyon</hi> in <hi>Holy-well Lane,</hi> ſo on into <hi>Holy-well Street</hi> all that ſide of the Way up to <hi>King</hi>'s <hi>Head Court,</hi> the Court included, being over-againſt the Sign of the <hi>Wiſe-men</hi> of <hi>Gotham</hi> aforeſaid, with all the Courts, Yards, and Alleys including on the ſaid Weſt-ſide of the Way, thence to the Gate by the <hi>Artillery Ground,</hi> ſo on to <hi>Smock-Alley,</hi> thence on <hi>Pettycoat-Lane</hi> on the Eaſt-ſide, to the End of the Bars in <hi>White-Chapple.</hi>
+            </p>
+            <p>THE LIBERTY AND MANNOR abovementioned having been granted by King <hi>Edward</hi> the Sixth, to the Lord <hi>Wentworth,</hi> his Heirs and Aſſigns for ever, to be enjoy'd by them in as full and ample a Manner as the Biſhop of <hi>London,</hi> by former Grants from King <hi>Richard</hi> II, had enjoy'd it before; which Grants recite divers Immunities, Priviledges, and Emoluments to be enjoy'd by the Lord of the ſaid Mannor: And amongſt others ſpecified at large in the ſaid Grants, all Fines, Iſſues, Forfeitures, and Amerciaments of the Court of <hi>King</hi>'s <hi>Bench,</hi> and all other the King's Courts, Juſtices Itinerant, Juſtices of Aſſizes or Goal-Delivery, or any other Juſtices, Inquiſitors; and alſo all Fines and Amerciaments before the King's Clerk of the Mar<g ref="char:EOLhyphen"/>ket; and likewiſe the holding of a Court-Leet, or View of Frank Pledge within the ſaid Man<g ref="char:EOLhyphen"/>nor, with all Fines and Amerciaments ariſing out of the ſame; and the Goods and Chattels of all Perſons forfeited, reſiding within the ſaid Mannor being Outlawed, Waived, Condemned, Fugitives, or Felons; and the Year day and Waſte of their Lands and Tenements, are for ever granted to the ſaid Mannor, together with all Poſt Fines, Waifs, Eſtrays, and Deodands; and alſo the Lord, by the ſaid Grants hath the <hi>Retorna Brevium,</hi> and Execution of all Attachments, Writs, Warrants, and other Proceſs whatſoever, out of any of the King's Courts to be execu<g ref="char:EOLhyphen"/>ted within the ſaid Mannor, and that the ſaid Sheriff, nor any other Officer is not to enter the ſaid Liberty, to execute any Proceſs within the ſame, but ought to be directed to the Chief Bai<g ref="char:EOLhyphen"/>liff of the ſaid Liberty to be Executed.</p>
+            <p>WHEREFORE the preſent Lord of the Liberty, being reſolved to keep up, preſerve, and maintain his Rights and Privileges belonging to the ſame, againſt all Intruders; hath thought fit to Print the moſt principal Places within the ſaid Mannor, and the Extent thereof, as above<g ref="char:EOLhyphen"/>mentioned; that no Officer preſuming illegally to enter the ſame, may be ignorant, and ſo are to take Notice, that if any Officer, Bailiff, or Serjeant whatſoever, (except only ſuch as are appointed by the Chief Bailiff of the Liberty aforeſaid) ſhall come into, or enter upon the ſaid Liberty, to execute any Proceſs in Law whatſoever, which of Right belongeth unto the ſaid Chief Bailiff of the ſaid Liberty to execute, ſuch Officer, Bailiff, or Serjeant will be ſued for doing the ſame.</p>
+            <p>THE Lord of the ſaid Mannor hath appointed <hi>Burdyn Anderſon,</hi> Gent. Chief Bailiff of the ſame, who keeps his Office at <hi>White-Chappel</hi> Court, within the ſaid Mannor.</p>
+            <p>TO WHOM all Attorneys at Law, or others who would have any Proceſs to be executed within the ſaid Liberty, are deſired to require a <hi>Mandavi Ballivo</hi> thereupon from the Sheriff of <hi>Middleſex,</hi> viz. <hi>Ballivo Libertat. Manerii de Stepney</hi> in <hi>Com' Middleſex,</hi> viz. Attachments, Warrants upon <hi>Meane Proceſs, Ca. Sa.</hi> and <hi>Fieri Facias,</hi> &amp;c. which being ſent to the Chief Bailiff's Office as aforeſaid, with proper Directions, will be carefully executed, and his Office being open at all Hours, all Perſons concerned will be readily anſwered.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
